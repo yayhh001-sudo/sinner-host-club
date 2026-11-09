@@ -4,7 +4,7 @@
     "floor": "1F",
     "group": "1층 로비",
     "label": "1층 로비",
-    "image": "assets/1F_001.webp",
+    "image": "1F_001.webp",
     "next": 1,
     "prev": null
   },
@@ -13,7 +13,7 @@
     "floor": "1F",
     "group": "1층 로비",
     "label": "1층 로비",
-    "image": "assets/1F_002.webp",
+    "image": "1F_002.webp",
     "next": 2,
     "prev": 0
   },
@@ -22,7 +22,7 @@
     "floor": "1F",
     "group": "1층 로비",
     "label": "1층 로비",
-    "image": "assets/1F_003.webp",
+    "image": "1F_003.webp",
     "next": 3,
     "prev": 1
   },
@@ -31,7 +31,7 @@
     "floor": "1F",
     "group": "1층 로비",
     "label": "1층 로비",
-    "image": "assets/1F_004.webp",
+    "image": "1F_004.webp",
     "next": 4,
     "prev": 2
   },
@@ -40,7 +40,7 @@
     "floor": "1F",
     "group": "1층 로비",
     "label": "1층 로비",
-    "image": "assets/1F_005.webp",
+    "image": "1F_005.webp",
     "next": 5,
     "prev": 3
   },
@@ -49,7 +49,7 @@
     "floor": "1F",
     "group": "1층 로비",
     "label": "1층 로비",
-    "image": "assets/1F_006.webp",
+    "image": "1F_006.webp",
     "next": 6,
     "prev": 4
   },
@@ -58,7 +58,7 @@
     "floor": "1F",
     "group": "1층 로비",
     "label": "1층 로비",
-    "image": "assets/1F_007.webp",
+    "image": "1F_007.webp",
     "next": 7,
     "prev": 5
   },
@@ -67,7 +67,7 @@
     "floor": "1F",
     "group": "1층 로비",
     "label": "1층 로비",
-    "image": "assets/1F_008.webp",
+    "image": "1F_008.webp",
     "next": 8,
     "prev": 6
   },
@@ -76,7 +76,7 @@
     "floor": "1F",
     "group": "1층 로비",
     "label": "1층 로비",
-    "image": "assets/1F_009.webp",
+    "image": "1F_009.webp",
     "next": null,
     "prev": 7
   },
@@ -85,7 +85,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_010.webp",
+    "image": "2F_010.webp",
     "next": 10,
     "prev": null
   },
@@ -94,7 +94,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_011.webp",
+    "image": "2F_011.webp",
     "next": 11,
     "prev": 9
   },
@@ -103,7 +103,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_012.webp",
+    "image": "2F_012.webp",
     "next": 12,
     "prev": 10
   },
@@ -112,7 +112,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_013.webp",
+    "image": "2F_013.webp",
     "next": 13,
     "prev": 11
   },
@@ -121,7 +121,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_014.webp",
+    "image": "2F_014.webp",
     "next": 14,
     "prev": 12
   },
@@ -130,7 +130,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_015.webp",
+    "image": "2F_015.webp",
     "next": 15,
     "prev": 13
   },
@@ -139,7 +139,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_016.webp",
+    "image": "2F_016.webp",
     "next": 16,
     "prev": 14
   },
@@ -148,7 +148,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_017.webp",
+    "image": "2F_017.webp",
     "next": 17,
     "prev": 15
   },
@@ -157,7 +157,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_018.webp",
+    "image": "2F_018.webp",
     "next": 18,
     "prev": 16
   },
@@ -166,7 +166,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_019.webp",
+    "image": "2F_019.webp",
     "next": 19,
     "prev": 17
   },
@@ -175,7 +175,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_020.webp",
+    "image": "2F_020.webp",
     "next": 20,
     "prev": 18
   },
@@ -184,7 +184,7 @@
     "floor": "2F",
     "group": "2F_바_라운지",
     "label": "2F_바_라운지",
-    "image": "assets/2F_021.webp",
+    "image": "2F_021.webp",
     "next": null,
     "prev": 19
   },
@@ -193,7 +193,7 @@
     "floor": "2F",
     "group": "2F_추가_다각도",
     "label": "2F_추가_다각도",
-    "image": "assets/2F_022.webp",
+    "image": "2F_022.webp",
     "next": 22,
     "prev": null
   },
@@ -202,7 +202,7 @@
     "floor": "2F",
     "group": "2F_추가_다각도",
     "label": "2F_추가_다각도",
-    "image": "assets/2F_023.webp",
+    "image": "2F_023.webp",
     "next": 23,
     "prev": 21
   },
@@ -211,7 +211,7 @@
     "floor": "2F",
     "group": "2F_추가_다각도",
     "label": "2F_추가_다각도",
-    "image": "assets/2F_024.webp",
+    "image": "2F_024.webp",
     "next": 24,
     "prev": 22
   },
@@ -220,7 +220,7 @@
     "floor": "2F",
     "group": "2F_추가_다각도",
     "label": "2F_추가_다각도",
-    "image": "assets/2F_025.webp",
+    "image": "2F_025.webp",
     "next": 25,
     "prev": 23
   },
@@ -229,7 +229,7 @@
     "floor": "2F",
     "group": "2F_추가_다각도",
     "label": "2F_추가_다각도",
-    "image": "assets/2F_026.webp",
+    "image": "2F_026.webp",
     "next": 26,
     "prev": 24
   },
@@ -238,7 +238,7 @@
     "floor": "2F",
     "group": "2F_추가_다각도",
     "label": "2F_추가_다각도",
-    "image": "assets/2F_027.webp",
+    "image": "2F_027.webp",
     "next": null,
     "prev": 25
   },
@@ -247,7 +247,7 @@
     "floor": "2F",
     "group": "2F_파티룸_프라이빗룸",
     "label": "2F_파티룸_프라이빗룸",
-    "image": "assets/2F_028.webp",
+    "image": "2F_028.webp",
     "next": 28,
     "prev": null
   },
@@ -256,7 +256,7 @@
     "floor": "2F",
     "group": "2F_파티룸_프라이빗룸",
     "label": "2F_파티룸_프라이빗룸",
-    "image": "assets/2F_029.webp",
+    "image": "2F_029.webp",
     "next": 29,
     "prev": 27
   },
@@ -265,7 +265,7 @@
     "floor": "2F",
     "group": "2F_파티룸_프라이빗룸",
     "label": "2F_파티룸_프라이빗룸",
-    "image": "assets/2F_030.webp",
+    "image": "2F_030.webp",
     "next": 30,
     "prev": 28
   },
@@ -274,7 +274,7 @@
     "floor": "2F",
     "group": "2F_파티룸_프라이빗룸",
     "label": "2F_파티룸_프라이빗룸",
-    "image": "assets/2F_031.webp",
+    "image": "2F_031.webp",
     "next": 31,
     "prev": 29
   },
@@ -283,7 +283,7 @@
     "floor": "2F",
     "group": "2F_파티룸_프라이빗룸",
     "label": "2F_파티룸_프라이빗룸",
-    "image": "assets/2F_032.webp",
+    "image": "2F_032.webp",
     "next": null,
     "prev": 30
   },
@@ -292,7 +292,7 @@
     "floor": "3F",
     "group": "01_엘리베이터홀_진입",
     "label": "01_엘리베이터홀_진입",
-    "image": "assets/3F_033.webp",
+    "image": "3F_033.webp",
     "next": null,
     "prev": null
   },
@@ -301,7 +301,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_034.webp",
+    "image": "3F_034.webp",
     "next": 34,
     "prev": null
   },
@@ -310,7 +310,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_035.webp",
+    "image": "3F_035.webp",
     "next": 35,
     "prev": 33
   },
@@ -319,7 +319,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_036.webp",
+    "image": "3F_036.webp",
     "next": 36,
     "prev": 34
   },
@@ -328,7 +328,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_037.webp",
+    "image": "3F_037.webp",
     "next": 37,
     "prev": 35
   },
@@ -337,7 +337,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_038.webp",
+    "image": "3F_038.webp",
     "next": 38,
     "prev": 36
   },
@@ -346,7 +346,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_039.webp",
+    "image": "3F_039.webp",
     "next": 39,
     "prev": 37
   },
@@ -355,7 +355,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_040.webp",
+    "image": "3F_040.webp",
     "next": 40,
     "prev": 38
   },
@@ -364,7 +364,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_041.webp",
+    "image": "3F_041.webp",
     "next": 41,
     "prev": 39
   },
@@ -373,7 +373,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_042.webp",
+    "image": "3F_042.webp",
     "next": 42,
     "prev": 40
   },
@@ -382,7 +382,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_043.webp",
+    "image": "3F_043.webp",
     "next": 43,
     "prev": 41
   },
@@ -391,7 +391,7 @@
     "floor": "3F",
     "group": "02_이동복도",
     "label": "02_이동복도",
-    "image": "assets/3F_044.webp",
+    "image": "3F_044.webp",
     "next": null,
     "prev": 42
   },
@@ -400,7 +400,7 @@
     "floor": "3F",
     "group": "03_VIP_개별룸",
     "label": "03_VIP_개별룸",
-    "image": "assets/3F_045.webp",
+    "image": "3F_045.webp",
     "next": 45,
     "prev": null
   },
@@ -409,7 +409,7 @@
     "floor": "3F",
     "group": "03_VIP_개별룸",
     "label": "03_VIP_개별룸",
-    "image": "assets/3F_046.webp",
+    "image": "3F_046.webp",
     "next": 46,
     "prev": 44
   },
@@ -418,7 +418,7 @@
     "floor": "3F",
     "group": "03_VIP_개별룸",
     "label": "03_VIP_개별룸",
-    "image": "assets/3F_047.webp",
+    "image": "3F_047.webp",
     "next": 47,
     "prev": 45
   },
@@ -427,7 +427,7 @@
     "floor": "3F",
     "group": "03_VIP_개별룸",
     "label": "03_VIP_개별룸",
-    "image": "assets/3F_048.webp",
+    "image": "3F_048.webp",
     "next": 48,
     "prev": 46
   },
@@ -436,7 +436,7 @@
     "floor": "3F",
     "group": "03_VIP_개별룸",
     "label": "03_VIP_개별룸",
-    "image": "assets/3F_049.webp",
+    "image": "3F_049.webp",
     "next": 49,
     "prev": 47
   },
@@ -445,7 +445,7 @@
     "floor": "3F",
     "group": "03_VIP_개별룸",
     "label": "03_VIP_개별룸",
-    "image": "assets/3F_050.webp",
+    "image": "3F_050.webp",
     "next": 50,
     "prev": 48
   },
@@ -454,7 +454,7 @@
     "floor": "3F",
     "group": "03_VIP_개별룸",
     "label": "03_VIP_개별룸",
-    "image": "assets/3F_051.webp",
+    "image": "3F_051.webp",
     "next": 51,
     "prev": 49
   },
@@ -463,7 +463,7 @@
     "floor": "3F",
     "group": "03_VIP_개별룸",
     "label": "03_VIP_개별룸",
-    "image": "assets/3F_052.webp",
+    "image": "3F_052.webp",
     "next": null,
     "prev": 50
   },
@@ -472,7 +472,7 @@
     "floor": "3F",
     "group": "04_대형단체룸",
     "label": "04_대형단체룸",
-    "image": "assets/3F_053.webp",
+    "image": "3F_053.webp",
     "next": 53,
     "prev": null
   },
@@ -481,7 +481,7 @@
     "floor": "3F",
     "group": "04_대형단체룸",
     "label": "04_대형단체룸",
-    "image": "assets/3F_054.webp",
+    "image": "3F_054.webp",
     "next": 54,
     "prev": 52
   },
@@ -490,7 +490,7 @@
     "floor": "3F",
     "group": "04_대형단체룸",
     "label": "04_대형단체룸",
-    "image": "assets/3F_055.webp",
+    "image": "3F_055.webp",
     "next": 55,
     "prev": 53
   },
@@ -499,7 +499,7 @@
     "floor": "3F",
     "group": "04_대형단체룸",
     "label": "04_대형단체룸",
-    "image": "assets/3F_056.webp",
+    "image": "3F_056.webp",
     "next": 56,
     "prev": 54
   },
@@ -508,7 +508,7 @@
     "floor": "3F",
     "group": "04_대형단체룸",
     "label": "04_대형단체룸",
-    "image": "assets/3F_057.webp",
+    "image": "3F_057.webp",
     "next": 57,
     "prev": 55
   },
@@ -517,7 +517,7 @@
     "floor": "3F",
     "group": "04_대형단체룸",
     "label": "04_대형단체룸",
-    "image": "assets/3F_058.webp",
+    "image": "3F_058.webp",
     "next": null,
     "prev": 56
   },
@@ -526,7 +526,7 @@
     "floor": "3F",
     "group": "05_노래방_시설",
     "label": "05_노래방_시설",
-    "image": "assets/3F_059.webp",
+    "image": "3F_059.webp",
     "next": 59,
     "prev": null
   },
@@ -535,7 +535,7 @@
     "floor": "3F",
     "group": "05_노래방_시설",
     "label": "05_노래방_시설",
-    "image": "assets/3F_060.webp",
+    "image": "3F_060.webp",
     "next": 60,
     "prev": 58
   },
@@ -544,7 +544,7 @@
     "floor": "3F",
     "group": "05_노래방_시설",
     "label": "05_노래방_시설",
-    "image": "assets/3F_061.webp",
+    "image": "3F_061.webp",
     "next": 61,
     "prev": 59
   },
@@ -553,7 +553,7 @@
     "floor": "3F",
     "group": "05_노래방_시설",
     "label": "05_노래방_시설",
-    "image": "assets/3F_062.webp",
+    "image": "3F_062.webp",
     "next": 62,
     "prev": 60
   },
@@ -562,7 +562,7 @@
     "floor": "3F",
     "group": "05_노래방_시설",
     "label": "05_노래방_시설",
-    "image": "assets/3F_063.webp",
+    "image": "3F_063.webp",
     "next": 63,
     "prev": 61
   },
@@ -571,7 +571,7 @@
     "floor": "3F",
     "group": "05_노래방_시설",
     "label": "05_노래방_시설",
-    "image": "assets/3F_064.webp",
+    "image": "3F_064.webp",
     "next": null,
     "prev": 62
   },
@@ -580,7 +580,7 @@
     "floor": "B1",
     "group": "주차장",
     "label": "주차장",
-    "image": "assets/B1_065.webp",
+    "image": "B1_065.webp",
     "next": 65,
     "prev": null
   },
@@ -589,7 +589,7 @@
     "floor": "B1",
     "group": "주차장",
     "label": "주차장",
-    "image": "assets/B1_066.webp",
+    "image": "B1_066.webp",
     "next": 66,
     "prev": 64
   },
@@ -598,7 +598,7 @@
     "floor": "B1",
     "group": "주차장",
     "label": "주차장",
-    "image": "assets/B1_067.webp",
+    "image": "B1_067.webp",
     "next": null,
     "prev": 65
   },
@@ -607,7 +607,7 @@
     "floor": "B1",
     "group": "B1",
     "label": "B1",
-    "image": "assets/B1_068.webp",
+    "image": "B1_068.webp",
     "next": 68,
     "prev": null
   },
@@ -616,70 +616,25 @@
     "floor": "B1",
     "group": "B1",
     "label": "B1",
-    "image": "assets/B1_069.webp",
-    "next": 69,
+    "image": "B1_069.webp",
+    "next": null,
     "prev": 67
-  },
-  {
-    "id": 69,
-    "floor": "B1",
-    "group": "B1",
-    "label": "B1",
-    "image": "assets/B1_070.webp",
-    "next": 70,
-    "prev": 68
-  },
-  {
-    "id": 70,
-    "floor": "B1",
-    "group": "B1",
-    "label": "B1",
-    "image": "assets/B1_071.webp",
-    "next": 71,
-    "prev": 69
-  },
-  {
-    "id": 71,
-    "floor": "B1",
-    "group": "B1",
-    "label": "B1",
-    "image": "assets/B1_072.webp",
-    "next": 72,
-    "prev": 70
-  },
-  {
-    "id": 72,
-    "floor": "B1",
-    "group": "B1",
-    "label": "B1",
-    "image": "assets/B1_073.webp",
-    "next": 73,
-    "prev": 71
-  },
-  {
-    "id": 73,
-    "floor": "B1",
-    "group": "B1",
-    "label": "B1",
-    "image": "assets/B1_074.webp",
-    "next": 74,
-    "prev": 72
   },
   {
     "id": 74,
     "floor": "B1",
     "group": "B1",
     "label": "B1",
-    "image": "assets/B1_075.webp",
+    "image": "B1_075.webp",
     "next": null,
-    "prev": 73
+    "prev": null
   },
   {
     "id": 75,
     "floor": "4F",
     "group": "엘리베이터홀",
     "label": "엘리베이터홀",
-    "image": "assets/4F_076.webp",
+    "image": "4F_076.webp",
     "next": 76,
     "prev": null
   },
@@ -688,7 +643,7 @@
     "floor": "4F",
     "group": "엘리베이터홀",
     "label": "엘리베이터홀",
-    "image": "assets/4F_077.webp",
+    "image": "4F_077.webp",
     "next": 77,
     "prev": 75
   },
@@ -697,7 +652,7 @@
     "floor": "4F",
     "group": "엘리베이터홀",
     "label": "엘리베이터홀",
-    "image": "assets/4F_078.webp",
+    "image": "4F_078.webp",
     "next": null,
     "prev": 76
   },
@@ -706,7 +661,7 @@
     "floor": "4F",
     "group": "복도",
     "label": "복도",
-    "image": "assets/4F_079.webp",
+    "image": "4F_079.webp",
     "next": 79,
     "prev": null
   },
@@ -715,7 +670,7 @@
     "floor": "4F",
     "group": "복도",
     "label": "복도",
-    "image": "assets/4F_080.webp",
+    "image": "4F_080.webp",
     "next": 80,
     "prev": 78
   },
@@ -724,7 +679,7 @@
     "floor": "4F",
     "group": "복도",
     "label": "복도",
-    "image": "assets/4F_081.webp",
+    "image": "4F_081.webp",
     "next": 81,
     "prev": 79
   },
@@ -733,7 +688,7 @@
     "floor": "4F",
     "group": "복도",
     "label": "복도",
-    "image": "assets/4F_082.webp",
+    "image": "4F_082.webp",
     "next": null,
     "prev": 80
   },
@@ -742,7 +697,7 @@
     "floor": "4F",
     "group": "VVIP 프라이빗룸",
     "label": "VVIP 프라이빗룸",
-    "image": "assets/4F_083.webp",
+    "image": "4F_083.webp",
     "next": 83,
     "prev": null
   },
@@ -751,7 +706,7 @@
     "floor": "4F",
     "group": "VVIP 프라이빗룸",
     "label": "VVIP 프라이빗룸",
-    "image": "assets/4F_084.webp",
+    "image": "4F_084.webp",
     "next": 84,
     "prev": 82
   },
@@ -760,7 +715,7 @@
     "floor": "4F",
     "group": "VVIP 프라이빗룸",
     "label": "VVIP 프라이빗룸",
-    "image": "assets/4F_085.webp",
+    "image": "4F_085.webp",
     "next": 85,
     "prev": 83
   },
@@ -769,7 +724,7 @@
     "floor": "4F",
     "group": "VVIP 프라이빗룸",
     "label": "VVIP 프라이빗룸",
-    "image": "assets/4F_086.webp",
+    "image": "4F_086.webp",
     "next": 86,
     "prev": 84
   },
@@ -778,7 +733,7 @@
     "floor": "4F",
     "group": "VVIP 프라이빗룸",
     "label": "VVIP 프라이빗룸",
-    "image": "assets/4F_087.webp",
+    "image": "4F_087.webp",
     "next": 87,
     "prev": 85
   },
@@ -787,7 +742,7 @@
     "floor": "4F",
     "group": "VVIP 프라이빗룸",
     "label": "VVIP 프라이빗룸",
-    "image": "assets/4F_088.webp",
+    "image": "4F_088.webp",
     "next": 88,
     "prev": 86
   },
@@ -796,7 +751,7 @@
     "floor": "4F",
     "group": "VVIP 프라이빗룸",
     "label": "VVIP 프라이빗룸",
-    "image": "assets/4F_089.webp",
+    "image": "4F_089.webp",
     "next": 89,
     "prev": 87
   },
@@ -805,7 +760,7 @@
     "floor": "4F",
     "group": "VVIP 프라이빗룸",
     "label": "VVIP 프라이빗룸",
-    "image": "assets/4F_090.webp",
+    "image": "4F_090.webp",
     "next": null,
     "prev": 88
   },
@@ -814,7 +769,7 @@
     "floor": "4F",
     "group": "초대형 파티룸",
     "label": "초대형 파티룸",
-    "image": "assets/4F_091.webp",
+    "image": "4F_091.webp",
     "next": 91,
     "prev": null
   },
@@ -823,7 +778,7 @@
     "floor": "4F",
     "group": "초대형 파티룸",
     "label": "초대형 파티룸",
-    "image": "assets/4F_092.webp",
+    "image": "4F_092.webp",
     "next": null,
     "prev": 90
   },
@@ -832,7 +787,7 @@
     "floor": "4F",
     "group": "전용 바",
     "label": "전용 바",
-    "image": "assets/4F_093.webp",
+    "image": "4F_093.webp",
     "next": null,
     "prev": null
   },
@@ -841,7 +796,7 @@
     "floor": "4F",
     "group": "샴페인 바",
     "label": "샴페인 바",
-    "image": "assets/4F_094.webp",
+    "image": "4F_094.webp",
     "next": null,
     "prev": null
   },
@@ -850,7 +805,7 @@
     "floor": "4F",
     "group": "화장실",
     "label": "화장실",
-    "image": "assets/4F_095.webp",
+    "image": "4F_095.webp",
     "next": 95,
     "prev": null
   },
@@ -859,7 +814,7 @@
     "floor": "4F",
     "group": "화장실",
     "label": "화장실",
-    "image": "assets/4F_096.webp",
+    "image": "4F_096.webp",
     "next": null,
     "prev": 94
   }
