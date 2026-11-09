@@ -617,8 +617,53 @@
     "group": "B1",
     "label": "B1",
     "image": "B1_069.webp",
-    "next": null,
+    "next": 69,
     "prev": 67
+  },
+  {
+    "id": 69,
+    "floor": "B1",
+    "group": "B1",
+    "label": "B1",
+    "image": "B1_070.webp",
+    "next": 70,
+    "prev": 68
+  },
+  {
+    "id": 70,
+    "floor": "B1",
+    "group": "B1",
+    "label": "B1",
+    "image": "B1_071.webp",
+    "next": 71,
+    "prev": 69
+  },
+  {
+    "id": 71,
+    "floor": "B1",
+    "group": "B1",
+    "label": "B1",
+    "image": "B1_072.webp",
+    "next": 72,
+    "prev": 70
+  },
+  {
+    "id": 72,
+    "floor": "B1",
+    "group": "B1",
+    "label": "B1",
+    "image": "B1_073.webp",
+    "next": 73,
+    "prev": 71
+  },
+  {
+    "id": 73,
+    "floor": "B1",
+    "group": "B1",
+    "label": "B1",
+    "image": "B1_074.webp",
+    "next": 74,
+    "prev": 72
   },
   {
     "id": 74,
@@ -627,7 +672,7 @@
     "label": "B1",
     "image": "B1_075.webp",
     "next": null,
-    "prev": null
+    "prev": 73
   },
   {
     "id": 75,
